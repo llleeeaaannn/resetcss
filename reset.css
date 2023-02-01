@@ -1,11 +1,9 @@
-/* Add Box-Sizing to all elements */
 *,
 ::before,
 ::after {
   box-sizing: border-box;
 }
 
-/* Remove default margin, padding, border & outline */
 * {
   margin: 0;
   padding: 0;
@@ -13,13 +11,11 @@
   outline: 0;
 }
 
-/* Removed default list styles from lists */
 ol,
 ul {
 	list-style: none;
 }
 
-/* Sets images, svgs, videos, canvas and pictures to block elements with 100% max-width */
 img,
 svg,
 video,
@@ -29,7 +25,6 @@ picture {
   max-width: 100%;
 }
 
-/* Makes input, button, select and textarea inherit font styles from parent */
 input,
 button,
 select,
@@ -37,7 +32,6 @@ textarea {
   font: inherit;
 }
 
-/* Adds break-word styling to all text elements */
 p,
 h1,
 h2,
