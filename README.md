@@ -1,10 +1,10 @@
 # My Reset CSS
 
-This is my custom reset CSS file. It’s similar to many of the classic resets with my own twist, feel free to use it as and when you wish. 
+This is my custom reset CSS file. It’s similar to many of the classic resets with my own twist, feel free to use it as and when you wish.
 
 ## The Breakdown
 
-First, we simply take all elements, including the pseudo-elements, and set them to border-box sizing. If you don’t know what border-box is, you should, it makes CSS sane. See here for more.
+First, we simply take all elements, including the pseudo-elements, and set them to border-box sizing. If you don’t know what border-box is, you should, it makes CSS sane. See (here for more)[https://developer.mozilla.org/en-US/docs/Web/CSS/box-sizing].
 
 By the way, I've seen people use *::before to select pseudo-elements instead of just ::before , they function the exact same way so save yourself the character.
 
