@@ -4,7 +4,7 @@ This is my custom reset CSS file. It’s similar to many of the classic resets w
 
 ## The Breakdown
 
-First, we simply take all elements, including the pseudo-elements, and set them to border-box sizing. If you don’t know what border-box is, you should, it makes CSS sane. See (here for more)[https://developer.mozilla.org/en-US/docs/Web/CSS/box-sizing].
+First, we simply take all elements, including the pseudo-elements, and set them to border-box sizing. If you don’t know what border-box is, you should, it makes CSS sane. See [here for more](https://developer.mozilla.org/en-US/docs/Web/CSS/box-sizing).
 
 By the way, I've seen people use *::before to select pseudo-elements instead of just ::before , they function the exact same way so save yourself the character.
 
@@ -90,4 +90,4 @@ It’s a CSS Reset that works for the way I design and style websites. I’ll pr
 
 If you like it you can copy it from above or find it on GitHub.
 
-If you hate it, tell me why at (frankpierce.me)[https://www.frankpierce.me/] or email me at piercefrank10@gmail.com
+If you hate it, tell me why at [frankpierce.me](https://www.frankpierce.me/) or email me at piercefrank10@gmail.com
