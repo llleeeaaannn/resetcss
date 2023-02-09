@@ -36,7 +36,7 @@ ul {
 }
 ```
 
-I don't use images, SVGs, videos or the like inline. Why are they inline elements? I’m not going to question W3C’s logic and of course you can use the abovementioned elements inline, but I almost never do. So I make them block elements, simple.
+I don't use images, SVGs, videos or the like inline. So why are they inline elements? I’m not going to question W3C’s logic and of course you can use the above mentioned elements inline, but I almost never do. So I make them block elements, simple.
 
 I also give the elements a max-width of 100% to prevent them from overflowing their containers.
 
@@ -64,7 +64,7 @@ textarea {
 }
 ```
 
-CSS automatically line-wraps where there isn’t enough space to fit all of a word on a line. The issue is that it takes a ‘soft-wrap’ approach, meaning at least in English it’ll only wrap on spaces and hyphens. If you have a single word which is longer (see wider) than its element then it’ll overflow.
+CSS automatically line-wraps where there isn’t enough space to fit all of a word on a line. The issue is that it takes a ‘soft-wrap’ approach, meaning, at least in English, it’ll only wrap on spaces and hyphens. If you have a single word which is longer (see wider) than its element then it’ll overflow.
 
 This gets super messy as words either overlap other elements, get hidden or create unwanted x-axis scroll.
 
